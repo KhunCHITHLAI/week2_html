@@ -1,0 +1,26 @@
+p{
+    font-weight: bold;
+}
+.green{
+
+    font-size: 20px;
+    color: green;
+}
+.yellow{
+    font-size: 20px;
+    color: yellow;
+}
+
+#div1{
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2,ul{
+
+    color: red;
+}
+ul>li{
+
+font-weight: bold;
+}
